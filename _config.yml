@@ -50,7 +50,7 @@ social:
     url: https://www.facebook.com/arun.soman.104
   - title: whatsapp
     url: https://api.whatsapp.com/send?phone=+91-8281618806
-   -title: bitbucket
+  -title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/Chipprogrammer
