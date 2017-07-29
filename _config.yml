@@ -52,8 +52,8 @@ social:
     url: https://api.whatsapp.com/send?phone=+91-8281618806
   - title: phone
     url: tel:+918281618806
-  - title: github
-    url: http://github.com/Chipprogrammer
+  - title: envelope
+    url: mailto:arunksoman5678@gmail.com
 
 # Postal address (add as many lines as necessary)
 address:
