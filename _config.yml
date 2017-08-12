@@ -9,17 +9,17 @@ description: "We designs beyond your dreams"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Siju Sam Thomas
   pic: 1
-  position: Lead Designer
+  position: Event Co-ordinator
   social:
-    - title: twitter
-      url: #
+    - title: whatsapp
+      url: https://api.whatsapp.com/send?phone=+919995339485
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
+      url: https:www.facebook.com/sijuoo7
+    - title: phone 
+      url: tel:+919995339485
+      
 - name: Larry Parker
   pic: 2
   position: Lead Marketer
