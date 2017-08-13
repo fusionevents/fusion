@@ -20,7 +20,7 @@ people:
     - title: phone 
       url: tel:+919995339485
       
-- name: Larry Parker
+- name: Sajil
   pic: 2
   position: Lead Marketer
   social:
@@ -31,7 +31,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Anil
   pic: 3
   position: Lead Developer
   social:
