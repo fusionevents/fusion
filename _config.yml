@@ -2,7 +2,7 @@ url: https://fusionevents.github.io
 baseurl: 
 
 # Site settings
-title: <i class="fa fa-fire" style="color:red" aria-hidden="true"></i>Fusion
+title: ![img]({ site.baseurl }}/img/fire.svg) Fusion
 email: fusioneventsplanners@gmail.com
 description: "We designs beyond your dreams"
 
