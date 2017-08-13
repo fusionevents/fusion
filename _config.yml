@@ -2,7 +2,7 @@ url: https://fusionevents.github.io
 baseurl: 
 
 # Site settings
-title: <img src="{{ site.baseurl }}/img/fire.svg" /> Fusion
+title: Fusion
 email: fusioneventsplanners@gmail.com
 description: "We designs beyond your dreams"
 
