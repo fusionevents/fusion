@@ -62,7 +62,23 @@ h6 {
 }
 
 .hameid-loader-overlay{width:100%;height:100%;background:url('/img/25.svg') center no-repeat #FFF;z-index:99999;position:fixed;}
-
+test_1{
+   font-family: 'Courgette', cursive;
+}
+test_1 .testimonial_subtitle{
+    color: #0aaa7a;
+    font-size: 12px;
+}
+test_1 .testimonial_btn{
+    background-color: #373d4b !important;
+    color: #fff !important;
+ }
+test_1 .seprator {
+    height: 2px;
+    width: 56px;
+    background-color: #0aaa7a;
+    margin: 7px 0 10px 0;
+}
 .bg-light-gray {
     background-color: #f7f7f7;
 }
