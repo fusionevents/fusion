@@ -6,10 +6,6 @@
 
     <body id="page-top" class="index">
     <div class="hameid-loader-overlay"></div>
-    <!-- Button that triggers the popup -->
-    <button id="my-button">POP IT UP</button>
-    <!-- Element to pop up -->
-    <div id="element_to_pop_up">Content of popup</div>
     {% include header.html %}
     {% include standard.html %}
     {% include services.html %}
@@ -23,12 +19,6 @@
     {% include modals.html %}
     {% include js.html %}
  <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-598c9383ea4b812d"></script> 
-<script>
-     $('element_to_pop_up').bPopup({
-     fadeSpeed: 'slow', //can be a string ('slow'/'fast') or int
-     followSpeed: 1500, //can be a string ('slow'/'fast') or int
-     modalColor: 'greenYellow'
-     });  
-   </script>
+
     </body>
 </html>
